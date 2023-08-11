@@ -31,4 +31,4 @@ def dep_jquery_version():
 
 @register.simple_tag
 def dep_swagger_ui_version():
-    return 'swagger-ui-4.9.0'
+    return 'swagger-ui-5.3.1'
